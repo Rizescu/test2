@@ -1,4 +1,4 @@
-buna 
-ziua 
-buna 
-seara
+buna 0
+ziua 0
+buna 0
+seara0
