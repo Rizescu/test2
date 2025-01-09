@@ -1,2 +1,4 @@
 buna 
-ziua
+ziua 
+buna 
+seara
