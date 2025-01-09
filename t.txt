@@ -2,3 +2,4 @@ buna 0
 ziua 0
 buna 0
 seara0
+hello
